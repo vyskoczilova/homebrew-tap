@@ -1,9 +1,9 @@
 class Tamp < Formula
   desc "Keep your Mac awake — menu bar app + CLI around macOS caffeinate"
   homepage "https://github.com/vyskoczilova/homebrew-tap"
-  url "https://github.com/vyskoczilova/homebrew-tap/releases/download/v0.0.0/tamp-0.0.0-macos.zip"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
-  version "0.0.0"
+  url "https://github.com/vyskoczilova/homebrew-tap/releases/download/v1.0.0/tamp-1.0.0-macos.zip"
+  sha256 "17643089cc22750b590de41d094ea02bf156ad321009cb2971140de65e3c97c7"
+  version "1.0.0"
   license "MIT"
 
   depends_on macos: :ventura
