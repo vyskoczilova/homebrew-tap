@@ -5,6 +5,8 @@ Personal [Homebrew](https://brew.sh) tap for
 
 ## Tamp — keep your Mac awake
 
+Source: https://github.com/vyskoczilova/tamp
+
 A small menu bar app plus a terminal CLI around macOS's built-in `caffeinate`.
 Toggle keep-awake, run it for a duration (`tamp for 2h`) or until a time
 (`tamp until 17:30`), choose which sleep to prevent (display / system / disk),
