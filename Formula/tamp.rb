@@ -1,6 +1,6 @@
 class Tamp < Formula
   desc "Keep your Mac awake — menu bar app + CLI around macOS caffeinate"
-  homepage "https://github.com/vyskoczilova/tamp"
+  homepage "https://tamp.kybernaut.cz"
   url "https://github.com/vyskoczilova/tamp/releases/download/v1.0.4/tamp-1.0.4-macos.zip"
   sha256 "b43df74b371ffb395bb37d5b6c5733b8e54468fd793d5ec799feab8dec9b9642"
   version "1.0.4"
